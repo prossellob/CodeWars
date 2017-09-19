@@ -1,4 +1,3 @@
-
 '''Return an array containing the numbers from 1 to N, where N is the parametered value. N will never be less than 1.
 
 Replace certain values however if any of the following conditions are met:
